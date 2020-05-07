@@ -1,6 +1,6 @@
 # hello-world
 Another repository
 
-Hi developers
+Hi developers out there
 
 Busy tryna create a repository here
